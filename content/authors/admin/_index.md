@@ -1,50 +1,47 @@
 ---
 # Display name
-title: 吳健雄
+title: 宋昭亦
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Sung Chao i
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zhaoyi
+last_name: Song
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master's Student in Software Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Tongji University
+    url: https://en.tongji.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ""
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robotics and Automation
+  - Multi-Agent Systems
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.Eng. in Software Engineering
+      institution: Tongji University
+      year: 2024
+    - course: B.Eng. in Software Engineering
+      institution: Tongji University
+      year: 2021
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -120,5 +117,10 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+I am currently a Master's student at <a href="http://en.tongji.edu.cn/" rel="noopener noreferrer" target="_blank">Tongji University</a>, working under the supervision of Prof. <a href="https://scholar.google.com/citations?user=I-zqeJ0AAAAJ&hl=en" rel="noopener noreferrer" target="_blank">Rongqing Zhang</a>.
+Prior to this, I obtained my Bachelor's degree in Software Engineering from the same institute in 2021.
+
+My research has been centered on operational research methods for efficient warehousing, specifically focusing on the multi-agent pathfinding problem and the warehouse order picking problem.
+I aim to develop adaptive algorithms that can learn from their environment, thereby creating intelligent systems that enhance decision-making and problem-solving capabilities.
+
+Looking ahead, I am eager to seek opportunities that allow me to build innovative solutions that both excite me and make a significant impact on people’s lives.{style="text-align: justify;"}
