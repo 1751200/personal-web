@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'IROS23_Paper.pdf'
+#url_pdf: 'iros2023.pdf'
 #url_code: ''
 #url_dataset: ''
 url_poster: 'IROS23_Poster.pdf'
