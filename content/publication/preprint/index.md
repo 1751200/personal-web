@@ -4,7 +4,6 @@ authors:
 - Ke Liu
 - Zhaoyi Song
 - Haoyue Bai
-- Qingjiang Shi
 
 author_notes:
   - 'Equal Contribution'

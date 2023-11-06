@@ -212,7 +212,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        I am currently studying at Tongji University, Jiading Campus, P.R. China.
+        I am currently working and studying at Tongji University, Jiading Campus, Shanghai, P.R. China.
       # Contact (add or remove contact options as necessary)
       email: zhaoyi.song.cs@gmail.com
       phone: +1 (734) 585 4967
