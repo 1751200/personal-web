@@ -35,7 +35,7 @@ abstract: The Multi-Agent Path Finding (MAPF) problem is a critical challenge in
 # Summary. An optional shortened abstract.
 summary: Proposed a hierarchical reinforcement learning framework for large-scale multi-agent pathfinding, addressing the challenges of sample inefficiency resulting from sparse rewards and partial observability.
 
-tags: [IROS, Robotics, Reinforcement Learning]
+tags: [Robotics, Reinforcement Learning, Multi-Agent Pathfinding]
 
 # Display this page in the Featured widget?
 featured: true
@@ -57,7 +57,7 @@ url_video: 'IROS23_Video.mp4'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  placement: 1
+  placement: 3
   caption: 'IROS 2023 Poster'
   focal_point: 'Center'
   preview_only: false
