@@ -12,13 +12,13 @@ address:
   postcode: '48226'
   country: United States
 
-summary: An iros23 talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: An oral presentation of our accepted paper ``HELSA Hierarchical Reinforcement Learning with Spatiotemporal Abstraction for Large-Scale Multi-Agent Path Finding''.
+abstract: The Multi-Agent Path Finding (MAPF) problem is a critical challenge in dynamic multi-robot systems. Recent studies have revealed that multi-agent reinforcement learning (MARL) is a promising approach to solving MAPF problems in a fully decentralized manner. However, as the size of the multirobot system increases, sample inefﬁciency becomes a major impediment to learning-based methods. This paper presents a hierarchical reinforcement learning (HRL) framework for large-scale multi-agent path ﬁnding, featuring applying spatial and temporal abstraction to capture intermediate reward and thus encourage efﬁcient exploration. Speciﬁcally, we introduce a meta controller that partitions the map into interconnected regions and optimizes agents’ region-wise paths towards globally better solutions. Additionally, we design a lower-level controller that efﬁciently solves each sub-problem by incorporating heuristic guidance and an inter-agent communication mechanism with RL-based policies. Our empirical results on test instances of various scales demonstrate that our method outperforms existing approaches in terms of both success rate and makespan.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-10-03T14:24:00Z'
+date_end: '2023-10-03T14:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
