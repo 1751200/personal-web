@@ -102,7 +102,7 @@ social:
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/1751200
+    link: https://github.com/troysung
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/zhaoyi-song-5737a6216/

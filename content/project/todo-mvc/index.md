@@ -94,33 +94,34 @@ url_code: 'https://github.com/troysung/Mobile-todoMVC'
 
 ## Feature Demonstration
 
-1. Two Color Modes (Note: Dark mode is not as well adapted, and the layout is inconsistent with light mode, so it is recommended to test in light mode on computers or phones)
+### Two Color Modes
+(Note: Dark mode is not as well adapted, and the layout is inconsistent with light mode, so it is recommended to test in light mode on computers or phones)
 
-   | Light Mode            | Dark Mode            |
-   |-----------------------|----------------------|
-   | ![Light Mode](浅色.png) | ![Dark Mode](深色.png) |
+| Light Mode            | Dark Mode            |
+|-----------------------|----------------------|
+| ![Light Mode](浅色.png) | ![Dark Mode](深色.png) |
 
-2. Input and Deletion of Tags
+### Input and Deletion of Tags
 
-   | Input Tag               | Confirm Deletion of Tag    |
-   |-------------------------|----------------------------|
-   | ![Input Tag](输入tag.png) | ![Delete Tag](确认删除tag.png) |
+| Input Tag               | Confirm Deletion of Tag    |
+|-------------------------|----------------------------|
+| ![Input Tag](输入tag.png) | ![Delete Tag](确认删除tag.png) |
 
-3. Adding and Editing `todo`
+### Adding and Editing `todo`
 
-   | Add `todo`              | Edit `todo`              |
-       |-------------------------|--------------------------|
-   | ![Add todo](添加todo.gif) | ![Edit todo](编辑todo.gif) |
+| Add `todo`              | Edit `todo`              |
+|-------------------------|--------------------------|
+| ![Add todo](添加todo.gif) | ![Edit todo](编辑todo.gif) |
 
-4. Deletion of `todo`
+### Deletion of `todo`
 
-   | Swipe Left to Delete    | Swipe Right to Delete    |
-   |-------------------------|--------------------------|
-   | ![Swipe Left](左滑删除.gif) | ![Swipe Right](右滑删除.gif) |
+| Swipe Left to Delete    | Swipe Right to Delete    |
+|-------------------------|--------------------------|
+| ![Swipe Left](左滑删除.gif) | ![Swipe Right](右滑删除.gif) |
 
-5. Two Filtering Methods (Text and Tags)
+### Two Filtering Methods (Text and Tags)
 
-   | Text Filter           | Tag Search            |
-   |-----------------------|-----------------------|
-   | ![Filter](filter.gif) | ![Search](search.gif) |
+| Text Filter           | Tag Search            |
+|-----------------------|-----------------------|
+| ![Filter](filter.gif) | ![Search](search.gif) |
 
