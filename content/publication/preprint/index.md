@@ -2,7 +2,7 @@
 title: "Image change detection with only a few samples"
 authors:
 - Ke Liu
-- Zhaoyi Song
+- admin
 - Haoyue Bai
 
 author_notes:
