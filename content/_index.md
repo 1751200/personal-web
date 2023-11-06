@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Zhaoyi Song （宋昭亦）
+      title: Zhaoyi Song（宋昭亦）
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 #  - block: skills
@@ -42,10 +42,10 @@ sections:
               Trained as a software engineer at Meituan.com, China’s premier food delivery and local service platform, responsible for maintaining merchant details for millions of businesses and handling transaction models.
               Responsibilities include:
 
-              * Refactored software interfaces to align with changes in upstream and downstream platforms.
-              * Periodically executed Hive SQL to ensure data consistency across various business units.
-              * Employed message queues and thread pools for traffic peak shaving during high-demand scenarios.
-              * Crafted a management tool for batch settlement data manipulation, facilitating change tracking.
+              * Refactored interfaces to align with changes in upstream and downstream platforms.
+              * Periodically executed Hive SQL to ensure data consistency across various BUs.
+              * Employed message queues and thread pools for traffic peak shaving.
+              * Crafted tools for batch settlement data manipulation, facilitating change tracking.
         - title: SDE Intern
           company: ByteDance, Inc., Nuverse Games
           company_url: 'https://www.nvsgames.com/'
@@ -211,14 +211,14 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        I am currently studying at Tongji University, Jiading Campus, P.R. China.
       # Contact (add or remove contact options as necessary)
       email: zhaoyi.song.cs@gmail.com
       phone: +1 (734) 585 4967
       address:
         street: No. 4800 Cao'An Highway
         city: Shanghai
-        region: Shanghai
+        region: China
         postcode: '201804'
         country: China
         country_code: CN
