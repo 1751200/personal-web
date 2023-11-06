@@ -6,14 +6,14 @@ title: 'HELSA: Hierarchical Reinforcement Learning with Spatiotemporal Abstracti
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Rongqing Zhang *
+  - Rongqing Zhang
   - Xiang Cheng
 
 # Author notes (optional)
-author_notes:
-  - 'First Author'
-  - 'Corresponding Author'
-  - ''
+#author_notes:
+#  - 'First Author'
+#  - 'Corresponding Author'
+#  - ''
 
 date: '2023-10-03T00:00:00Z'
 doi: ''
@@ -45,20 +45,21 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'IROS23_Paper.pdf'
 #url_code: ''
 #url_dataset: ''
-#url_poster: ''
+url_poster: 'IROS23_Poster.pdf'
 #url_project: ''
-#url_slides: ''
+url_slides: 'IROS23_Slides.pdf'
 #url_source: ''
-#url_video: ''
+url_video: 'IROS23_Video.mp4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
+  placement: 1
   caption: 'IROS 2023 Poster'
-  focal_point: ''
+  focal_point: 'Center'
   preview_only: false
 
 # Associated Projects (optional).
@@ -75,19 +76,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-[//]: # ({{% callout note %}})
-
-[//]: # (Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.)
-
-[//]: # ({{% /callout %}})
-
-[//]: # ()
-[//]: # ({{% callout note %}})
-
-[//]: # (Create your slides in Markdown - click the _Slides_ button to check out the example.)
-
-[//]: # ({{% /callout %}})
-
-[//]: # ()
-[//]: # (Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images]&#40;https://wowchemy.com/docs/content/writing-markdown-latex/&#41;.)
