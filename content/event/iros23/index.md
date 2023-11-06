@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: IROS 2023 Oral Presentation
 
 event: IROS 2023 Regular Session - Planning for Distributed and Multi-Robot Systems II
 event_url: https://example.org
