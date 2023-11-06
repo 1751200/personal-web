@@ -49,7 +49,7 @@ sections:
         - title: SDE Intern
           company: ByteDance, Inc., Nuverse Games
           company_url: 'https://www.nvsgames.com/'
-          company_logo: ByteDance_logo
+          company_logo: bytedance
           location: Shanghai
           date_start: '2020-11-23'
           date_end: '2021-09-28'
