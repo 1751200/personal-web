@@ -57,7 +57,8 @@ sections:
             Contributed to the DevOps and quality assurance of Game Software Development Kit (GSDK), offering a comprehensive suite of development tools for Unity/Unreal Engine game developers to seamlessly access core game development functionalities.
             Responsibilities include:
             
-            * Pioneered a non-invasive automation testing tool for mobile apps, validating SDK features and leading to an 80% improvement in test case writing efficiency over traditional UI automation methods.
+            * Pioneered a non-invasive automation testing tool for mobile apps.
+            * Built CI/CD pipeline for GSDK Windows version with Jenkins.
             * Crafted illustrative code samples and developed a demo mobile app to showcase SDK features, typical use-case scenarios, and best practices.
     design:
       columns: '2'
