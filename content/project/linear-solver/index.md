@@ -1,9 +1,9 @@
 ---
 title: A Large Linear System Solver
-summary: An iros23 of linking directly to an external project website using `external_link`.
+summary: GPU-accelerated algorithms for solving large sparse linear algebraic equations using C++, implementing *Jacobi Method*, *Gauss—Seidel Method*, *Successive Over-Relaxation (SOR) Method*, and *Conjugate Gradient Method*. 
 tags:
   - Research
-date: "2016-04-27T00:00:00Z"
+date: "2020-06-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -15,7 +15,7 @@ image:
 links:
   - icon: wikipedia-w
     icon_pack: fab
-    name: Check Wiki
+    name: Wiki
     url: https://github.com/troysung/Xlab-k8s-gpu/wiki
 
 url_code: 'https://github.com/troysung/Xlab-k8s-gpu'
