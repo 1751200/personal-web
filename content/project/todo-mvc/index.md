@@ -97,13 +97,13 @@ url_code: 'https://github.com/troysung/Mobile-todoMVC'
 1. Two Color Modes (Note: Dark mode is not as well adapted, and the layout is inconsistent with light mode, so it is recommended to test in light mode on computers or phones)
 
    | Light Mode            | Dark Mode            |
-       |-----------------------|----------------------|
+   |-----------------------|----------------------|
    | ![Light Mode](浅色.png) | ![Dark Mode](深色.png) |
 
 2. Input and Deletion of Tags
 
    | Input Tag               | Confirm Deletion of Tag    |
-       |-------------------------|----------------------------|
+   |-------------------------|----------------------------|
    | ![Input Tag](输入tag.png) | ![Delete Tag](确认删除tag.png) |
 
 3. Adding and Editing `todo`
@@ -115,12 +115,12 @@ url_code: 'https://github.com/troysung/Mobile-todoMVC'
 4. Deletion of `todo`
 
    | Swipe Left to Delete    | Swipe Right to Delete    |
-       |-------------------------|--------------------------|
+   |-------------------------|--------------------------|
    | ![Swipe Left](左滑删除.gif) | ![Swipe Right](右滑删除.gif) |
 
 5. Two Filtering Methods (Text and Tags)
 
    | Text Filter           | Tag Search            |
-       |-----------------------|-----------------------|
+   |-----------------------|-----------------------|
    | ![Filter](filter.gif) | ![Search](search.gif) |
 
