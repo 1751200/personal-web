@@ -25,13 +25,6 @@ url_code: 'https://github.com/weixiaonan1/BorderEscape'
 slides: ""
 ---
 
-<p>
-    <a href="https://unity3d.com"><img src="https://badgen.net/badge/Unity/2019.3.0a3/orange" /></a>
-     <a href="http://www.k4w.cn"><img src="https://badgen.net/badge/Kinect/2.0/purple" /></a>
-    <a href="https://unity3d.com"><img src="https://badgen.net/badge/platform/windows,xbox%20360,macOS?list=1" /></a>
-    <a href="LICENSE"><img src="https://badgen.net/badge/license/Apache%202.0/blue" /></a>
-    <a href="https://github.com/154544017/BorderEscape"><img src="https://badgen.net/badge/-/github?icon=github&label" /></a>
-
 A 3D Somatosensory Game based on **Unity 3D** and **Kinect 2.0**.  Different types of input devices are supported to enhance the game experience, including *Kinect*, Keyboard, and Mouse. (Each contained in a different branch)
 
 ## Game Logic and Functionality
