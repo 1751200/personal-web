@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 宋昭亦
+title: Zhaoyi Song
 
 # Name pronunciation (optional)
-name_pronunciation: Sung Chao i
+name_pronunciation: Chao i Sung
 
 # Full name (for SEO)
 first_name: Zhaoyi
@@ -45,43 +45,43 @@ education:
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+#skills:
+#  - name: Technical
+#    items:
+#      - name: Python
+#        description: ''
+#        percent: 80
+#        icon: python
+#        icon_pack: fab
+#      - name: Data Science
+#        description: ''
+#        percent: 100
+#        icon: chart-line
+#        icon_pack: fas
+#      - name: SQL
+#        description: ''
+#        percent: 40
+#        icon: database
+#        icon_pack: fas
+#  - name: Hobbies
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Hiking
+#        description: ''
+#        percent: 60
+#        icon: person-hiking
+#        icon_pack: fas
+#      - name: Cats
+#        description: ''
+#        percent: 100
+#        icon: cat
+#        icon_pack: fas
+#      - name: Photography
+#        description: ''
+#        percent: 80
+#        icon: camera-retro
+#        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -93,19 +93,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/VodkaSoul_
     label: Follow me on Twitter
     display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+      header: false
+#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#    icon_pack: fas
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/1751200
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/zhaoyi-song-5737a6216/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -123,4 +123,4 @@ Prior to this, I obtained my Bachelor's degree in Software Engineering from the 
 My research has been centered on operational research methods for efficient warehousing, specifically focusing on the multi-agent pathfinding problem and the warehouse order picking problem.
 I aim to develop adaptive algorithms that can learn from their environment, thereby creating intelligent systems that enhance decision-making and problem-solving capabilities.
 
-Looking ahead, I am eager to seek opportunities that allow me to build innovative solutions that both excite me and make a significant impact on people’s lives.{style="text-align: justify;"}
+Looking ahead, I am eager to seek opportunities that allow me to build innovative solutions that both excite me and make a significant impact on people’s lives.

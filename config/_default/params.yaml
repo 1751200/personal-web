@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: 'Copyright © 2022-{year} | Zhaoyi Song | Last updated: Nov, {year}'
     license:
       enable: true
       allow_derivatives: false

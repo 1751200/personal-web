@@ -24,8 +24,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: []
-tags: []
+authors: [Zhaoyi Song]
+tags: [IROS 2023]
 
 # Is this a featured talk? (true/false)
 featured: false
