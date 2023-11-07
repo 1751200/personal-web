@@ -131,6 +131,17 @@ sections:
 #      # Choose a layout view
 #      view: compact
 #      columns: '2'
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
   - block: portfolio
     id: projects
     content:
@@ -169,17 +180,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
+    id: publication
     content:
       title: Recent Publications
 #      text: |-
