@@ -2,7 +2,7 @@
 title: IROS 2023 Oral Presentation
 
 event: IROS 2023 Regular Session - Planning for Distributed and Multi-Robot Systems II
-event_url: https://example.org
+event_url: https://ras.papercept.net/conferences/conferences/IROS23/program/IROS23_ContentListWeb_3.html#tubt15_05
 
 location: Huntington Place
 address:
@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: [Zhaoyi Song]
+authors: [admin]
 tags: [IROS 2023]
 
 # Is this a featured talk? (true/false)
