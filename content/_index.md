@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Zhaoyi Song（宋昭亦）
+      title: Zhaoyi Song 宋昭亦
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 #  - block: skills
