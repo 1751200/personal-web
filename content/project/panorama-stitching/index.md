@@ -3,10 +3,10 @@ title: Panorama Stitching
 summary: |2-
     A multiple image panorama stitching app built using streamlit. Implementations of stitching algorithms include:
     - OpenCV [`Stitcher`](https://docs.opencv.org/4.5.0/d2/d8d/classcv_1_1Stitcher.html) API: A wrapper class for stitching functionality in OpenCV.
-    - OpenCV Advanced API: Some more advanced stitching API (such as [SeamFinder](https://docs.opencv.org/3.4/d7/d09/classcv_1_1detail_1_1SeamFinder.html)) that allows for more control over the stitching pipeline.
-    - Self-implemented: A self-implemented stitching pipeline including illumination compensation, best seam and blending.
+    - OpenCV Advanced API: Some more advanced stitching APIs (such as [SeamFinder](https://docs.opencv.org/3.4/d7/d09/classcv_1_1detail_1_1SeamFinder.html)) allowing for more control.
+    - Self-implemented: A stitching pipeline including illumination compensation, best seam and blending.
 tags:
-  - Demo
+  - Research
 date: '2020-07-06T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
