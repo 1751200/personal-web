@@ -21,7 +21,7 @@ publishDate: "2023-01-01T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv:submit/5217595 [cs.AI]"
+publication: "	arXiv:2311.03762 [cs.CV]"
 publication_short: "arXiv preprints"
 
 abstract: This paper considers image change detection with only a small number of samples, which is a significant problem in terms of a few annotations available.
@@ -43,7 +43,7 @@ featured: false
 #links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://arxiv.org/submit/5217595/view
+url_pdf: https://arxiv.org/pdf/2311.03762.pdf
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: '#'
 #url_poster: '#'
@@ -55,7 +55,7 @@ url_pdf: https://arxiv.org/submit/5217595/view
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Some examples of the image pairs and detection results.'
+  caption: ''
   focal_point: ""
   preview_only: false
 
