@@ -120,7 +120,7 @@ highlight_name: true
 I am currently a Master's student at <a href="http://en.tongji.edu.cn/" rel="noopener noreferrer" target="_blank">Tongji University</a>, working under the supervision of Prof. <a href="https://scholar.google.com/citations?user=I-zqeJ0AAAAJ&hl=en" rel="noopener noreferrer" target="_blank">Rongqing Zhang</a>.
 Prior to this, I obtained my Bachelor's degree in Software Engineering from the same institute in 2021.
 
-My research has been centered on operational research methods for efficient warehousing, specifically focusing on the multi-agent pathfinding problem and the warehouse order picking problem.
+My research has been centered on operations research for efficient warehousing, specifically focusing on the multi-agent pathfinding problem and the warehouse order picking problem.
 I aim to develop adaptive algorithms that can learn from their environment, thereby creating intelligent systems that enhance decision-making and problem-solving capabilities.
 
 Looking ahead, I am eager to seek opportunities that allow me to build innovative solutions that both excite me and make a significant impact on people’s lives.
