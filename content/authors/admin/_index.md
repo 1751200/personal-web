@@ -117,7 +117,7 @@ social:
 highlight_name: true
 ---
 
-I am currently a Master's student at <a href="http://en.tongji.edu.cn/" rel="noopener noreferrer" target="_blank">Tongji University</a>, working under the supervision of Prof. <a href="https://scholar.google.com/citations?user=I-zqeJ0AAAAJ&hl=en" rel="noopener noreferrer" target="_blank">Rongqing Zhang</a>.
+I am currently a master's student at <a href="http://en.tongji.edu.cn/" rel="noopener noreferrer" target="_blank">Tongji University</a>, working under the supervision of Prof. <a href="https://scholar.google.com/citations?user=I-zqeJ0AAAAJ&hl=en" rel="noopener noreferrer" target="_blank">Rongqing Zhang</a>.
 Prior to this, I obtained my Bachelor's degree in Software Engineering from the same institute in 2021.
 
 My research has been centered on operations research for efficient warehousing, specifically focusing on the multi-agent pathfinding problem and the warehouse order picking problem.
